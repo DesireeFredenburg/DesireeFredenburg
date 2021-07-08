@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DesireeFredenburg
 - 👀 I’m interested in UI/UX design and development. 
-- 🌱 I’m currently learning more about Figma.
+- 🌱 I’m currently learning more about UX design by taking the Google UX design course.
 - 💞️ I’m looking to collaborate on all things UI/UX. 
 - 📫 How to reach me ... des.fredenburg@gmail.com
 
